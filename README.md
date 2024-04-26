@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Sanchez</h1>
-<h3 align="center">Full-Stack Web Developer from Indiana, USA</h3>
+<h3 align="center">Software Engineer from Indiana, USA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wearycodes" alt="wearycodes" /></a> </p>
 
 - 🔭 I’m currently working on **graduating as a Full-Stack developer from Bloom Institute of Technology**
+
+- 👨‍💻 I currently work as a **Software Engineer** at Digibuild Software
 
 - 🌱 I’m currently learning **ReactJS, Javascript, HTML, CSS, Python, PostgreSQL, SQLite, Redux and Node.JS,**
 
