@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **samueljsanchez1@gmail.com**
 
-- ⚡ Fun fact **I am a passionate dancer and have been doing it for 11 years now!**
+- ⚡ Fun fact **I love golfing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
