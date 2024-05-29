@@ -7,7 +7,7 @@
 
 - 👨‍💻 I currently work as a **Software Engineer** at Digibuild Software
 
-- 🌱 I’m currently learning **ReactJS, Javascript, HTML, CSS, Python, PostgreSQL, SQLite, Redux and Node.JS,**
+- 🌱 I’m currently working with **ReactJS, Typescript, Javascript, HTML, CSS, Python, PostgreSQL, SQLite, Redux and Node.JS,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WearyCodes](https://github.com/WearyCodes)
 
