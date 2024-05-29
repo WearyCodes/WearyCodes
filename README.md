@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WearyCodes](https://github.com/WearyCodes)
 
-- 💬 Ask me about **Cloud Computing, Amazon Web Services**
+- 💬 Ask me about **Software Engineering, Web Development, Amazon Web Services**
 
 - 📫 How to reach me **samueljsanchez1@gmail.com**
 
